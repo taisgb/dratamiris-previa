@@ -1,0 +1,4 @@
+# Prévia Dra. Tamiris Sousa
+Site estático responsivo baseado na estrutura do modelo pediátrico Alexandre Magno, com CSS adaptado. Abra index.html ou execute npm install e npm run dev. Para GitHub Pages, publicar a raiz do repositório via Settings > Pages > Deploy from a branch > main / (root); não é necessário compilar. Para hospedagem em subpasta, envie os arquivos preservando assets/.
+
+Prévia não oficial, noindex. Os dois retratos foram tratados por IA para remover fundos e textos e convertidos em WebP com transparência. O unicórnio é uma recriação do símbolo fornecido, sujeito a aprovação. Validar as imagens com a profissional antes de publicar. CRM/RQE, formação, convênios, cobertura domiciliar e Lumine Ped não foram incluídos por falta de confirmação. Contatos e endereço baseados na extração anterior, sujeitos à validação pela profissional. Não há coleta de informações pessoais no site. A fonte, biblioteca de ícones e mapa dependem de recursos externos. 
