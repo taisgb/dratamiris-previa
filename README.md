@@ -1,4 +1,7 @@
-# Prévia Dra. Tamiris Sousa
-Site estático responsivo baseado na estrutura do modelo pediátrico Alexandre Magno, com CSS adaptado. Abra index.html ou execute npm install e npm run dev. Para GitHub Pages, publicar a raiz do repositório via Settings > Pages > Deploy from a branch > main / (root); não é necessário compilar. Para hospedagem em subpasta, envie os arquivos preservando assets/.
+# Dra. Thais Mota | Prévia conceitual
 
-Prévia não oficial, noindex. Os dois retratos foram tratados por IA para remover fundos e textos e convertidos em WebP com transparência. O unicórnio é uma recriação do símbolo fornecido, sujeito a aprovação. Validar as imagens com a profissional antes de publicar. CRM/RQE, formação, convênios, cobertura domiciliar e Lumine Ped não foram incluídos por falta de confirmação. Contatos e endereço baseados na extração anterior, sujeitos à validação pela profissional. Não há coleta de informações pessoais no site. A fonte, biblioteca de ícones e mapa dependem de recursos externos. 
+Adaptação do modelo dratamiris-previa. HTML/CSS/JS estáticos. Abra index.html ou execute npm install e npm run dev.
+
+Foto referenciada do site da Mini Mundo. Monograma TM provisório. Prévia não oficial, não indexável. Validar autorização da imagem, endereço e contato antes da publicação definitiva.
+
+Fontes: https://minimundopediatria.com.br/ ; https://minimundopediatria.com.br/?page_id=1044 ; https://www.doctoralia.com.br/perfil/thais-mota .
